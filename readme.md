@@ -1,4 +1,4 @@
-##Cette documentation vise à rendre compte :
+#Cette documentation vise à rendre compte :
 
     - de la méthode de travail, 
     - des animations, 
