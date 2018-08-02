@@ -2,14 +2,20 @@
 
 ## Acte I. Ressources et Données existantes
 La première étape est de recenser les études, base de données et listes déjà réalisées par les acteurs en Savoie.
-On retrouve par exemple la base de données de feu le site Netpublic.fr (à retrouver dans le dossier "data") qui recensait les Espaces Publics Numériques au niveau national. S'y trouvent également des recencements menés par des délégations territoriales du Conseil départemental de la Savoie. Ou encore la cartograhie des lieux issus du plan inclusion numérique du Grand Chambéry (http://www.web-quartier.fr/cartographie-des-points-numeriques/) 
-
+On retrouve à ce jour :
+ - la base de données de feu le site Netpublic.fr (qui recensait les Espaces Publics Numériques au niveau national)
+ - . S'y trouvent également des recencements menés par des délégations territoriales du Conseil départemental de la Savoie. Ou encore la cartograhie des lieux issus du plan inclusion numérique du Grand Chambéry (http://www.web-quartier.fr/cartographie-des-points-numeriques/) 
 
 
 
 ## Acte II. Prototype et retour
 
-
+La première version de la carte des lieux de médiation numérique en Savoie est [disponible en ligne] [https://hadidon.carto.com/builder/cabf3736-af71-4fc1-9511-ef1cfbf72846/embed]
+En l'état (Aout 2018) cette carte comprend :
+ - les noms, 
+ - adresses, 
+ - coordonées téléphoniques et/ou mail 
+Ces données ont été consolidées à partir du croisement des différentes bases de données disponibles.
 
 ## Acte III
 1. finaliser le 1er jet de la BDD suite aux remarques en COTECH.
